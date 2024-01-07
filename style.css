@@ -4,6 +4,7 @@
   font-family:'Poppins',sans-serif;
   box-sizing: border-box;
 }
+
 .hero{
   width: 1005;
   min-height: 100vh;
@@ -11,6 +12,7 @@
   color: #fff;
   position: relative;
 }
+
 .container{
   width: 800px;
   height: 180px;
